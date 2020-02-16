@@ -1,0 +1,29 @@
+{
+  "name": "graph-revised",
+  "version": "1.0.0",
+  "description": "Computes the delivery cost of a certain route, the number of possible delivery route between two towns, and the cost of cheapest delivery route between two towns.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha --recursive test/*.test.js",
+    "start": "npm test && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamrutvik/delivery-service-with-directed-graph.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamrutvik/delivery-service-with-directed-graph/issues"
+  },
+  "homepage": "https://github.com/iamrutvik/delivery-service-with-directed-graph#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "lodash": "^4.17.15",
+    "mocha": "^7.0.0-esm1",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {}
+}
