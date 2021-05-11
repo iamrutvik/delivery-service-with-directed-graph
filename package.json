@@ -21,7 +21,7 @@
   "homepage": "https://github.com/iamrutvik/delivery-service-with-directed-graph#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mocha": "^7.0.0-esm1",
     "nodemon": "^2.0.2"
   },
